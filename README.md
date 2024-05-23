@@ -1,0 +1,1 @@
+•	Understand text in PDFs with a fine-tuned LLM (via ChatGroq). This LLM then works with a custom Retrieval-Augmented Generation (RAG) model built with Langchain to answer the questions directly from the PDFs.
